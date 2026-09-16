@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/algasensors.iml" filepath="$PROJECT_DIR$/.idea/algasensors.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/device-management.main.iml" filepath="$PROJECT_DIR$/.idea/modules/device-management.main.iml" />
     </modules>
   </component>
 </project>

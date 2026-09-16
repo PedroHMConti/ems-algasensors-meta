@@ -5,14 +5,29 @@
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/microsservices/device-management" />
         <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microsservices/device-management" />
+          </set>
+        </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/microsservices/temperature-monitoring" />
         <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microsservices/temperature-monitoring" />
+          </set>
+        </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
         <option name="externalProjectPath" value="$PROJECT_DIR$/microsservices/temperature-processing" />
         <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$/microsservices/temperature-processing" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
